@@ -1,0 +1,141 @@
+{
+
+  "github.com": {
+    "card": "Ace of Diamonds",
+    "img": "data/img/acediamond.png",
+    "alt": "AceOfDiamonds.png"
+  },
+  "hackclub.com": {
+    "card": "King of Diamonds",
+    "img": "data/img/KingDiamonds.png",
+    "alt": "KingOfDiamonds.png"
+  },
+  "trailit.hackclub.com": {
+    "card": "Jack Of Diamonds",
+    "img": "data/img/jackDiamonds.png",
+    "alt": "JackOfDiamonds.png"
+  },
+  "coeur.hackclub.com": {
+    "card": "10 Of Diamonds",
+    "img": "data/img/10Diamonds.png",
+    "alt": "10OfDiamonds.png"
+  },
+  "amazon.com": {
+    "card": "9 Of Diamonds",
+    "img": "data/img/9Diamonds.png",
+    "alt": "9OfDiamonds.png"
+  },
+  "elevenlabs.io": {
+    "card": "8 Of Diamonds",
+    "img": "data/img/8Diamonds.png",
+    "alt": "8OfDiamonds.png"
+  },
+  "app.slack.com": {
+    "card": "7 Of Diamonds",
+    "img": "data/img/7Diamonds.png",
+    "alt": "7OfDiamonds.png"
+  },
+  "google.com": {
+    "card": "6 Of Diamonds",
+    "img": "data/img/6Diamonds.png",
+    "alt": "6OfDiamonds.png"
+  },
+  "slither.com": {
+    "card": "5 Of Diamonds",
+    "img": "data/img/5Diamonds.png",
+    "alt": "5OfDiamonds"
+  },
+  "wikipedia.org": {
+    "card": "4 Of Diamonds",
+    "img": "data/img/4Diamonds.png",
+    "alt": "4OfDiamonds.png"
+  },
+  "Facebook.com": {
+    "card": "3 Of Diamonds",
+    "img": "data/img/3Diamonds.png",
+    "alt": "3OfDiamonds.png"
+  },
+  "Instagram.com": {
+    "card": "2 Of Diamonds",
+    "img": "data/img/2Diamonds.png",
+    "alt": "2OfDiamonds.png"
+  },
+
+  "netflix.com": {
+    "card": "Queen Of Hearts",
+    "img": "data/img/QueenHeart.png",
+    "alt": "QueenOfHearts"
+  },
+  "temu.com": {
+    "card": "Jack Of Hearts",
+    "img": "data/img/jumboHeart.png",
+    "alt": "JackOfHearts"
+  },
+  "twitch.tv": {
+    "card": "10 Of Hearts",
+    "img": "data/img/10Heart.png",
+    "alt": "10OfHearts.png"
+  },
+  "duckduckgo.com": {
+    "card": "9 Of Hearts",
+    "img": "data/img/9Heart.png",
+    "alt": "9OfHearts.png"
+  },
+  "claude.ai": {
+    "card": "8 Of Hearts",
+    "img": "data/img/8Heart.png",
+    "alt": "8OfHearts.png"
+  },
+  "x.com": {
+    "card": "7 Of Hearts",
+    "img": "data/img/7Heart.png",
+    "alt": "7OfHearts"
+  },
+  "hackclub.tv": {
+    "card": "6 Of Hearts",
+    "img": "data/img/6Heart.png",
+    "alt": "6Ofhearts.png"
+  },
+  "stackoverflow.com": {
+    "card": "5 Of Hearts",
+    "img": "data/img/5Heart.png",
+    "alt": "5OfHearts.png"
+  },
+
+  "stardewvalleywiki.com": {
+    "card": "4 Of Hearts",
+    "img": "data/img/4Heart.png",
+    "alt": "4OfHearts"
+  },
+  "w3schools.com/": {
+    "card": "3 Of Hearts",
+    "img": "data/img/3Heart.png",
+    "alt": "3OfHearts.png"
+  },
+  "pypi.org/": {
+    "card": "2 Of Hearts",
+    "img": "data/img/2Heart.png",
+    "alt": "2OfHearts.png"
+  },
+  "youtube.com": {
+    "card": "King of Hearts",
+    "img": "data/img/KingHeart.png",
+    "alt": "kingOfHearts.png"
+  },
+  "reddit.com": {
+    "card": "Jack of Clubs",
+    "img": "data/img/JumboClubs.png",
+    "alt": "JackOfClubs.png"
+  },
+
+  "flavortown.hackclub.com": {
+    "card": "Ace of hearts",
+    "img": "data/img/aceheart.png",
+    "alt": "AceOfHearts.png"
+  },
+  "chatgpt.com": {
+    "card": "Two of clubs",
+    "img": "data/img/2Clubs.png",
+    "alt": "TwoOfClubs.png"
+  }
+}

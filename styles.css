@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.popup {
+    background-color: #ffea96;
+    border-radius: 15px;
+    border-color: orange;
+    border-style: solid;
+}
+.title {
+    font-family: "Quicksand", sans-serif;
+    color: orange;
+    text-align: center;
+}
+.text {
+    color: orange;
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+}
+.img {
+    padding-bottom: 10%;
+    height: max-content;
+    display: flex;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    height: 30vh;
+    justify-content: center;
+}
+
+.viewInventoryBtn {
+    background-color: #ffea96;
+    border-color: orange;
+    border-radius: 10px;
+    border-color: orange;
+	cursor:pointer;
+    justify-content: center;
+    font-family: "Quicksand", sans-serif;
+}
+
+.viewInventoryDiv {
+    justify-content: center;
+    display: flex;
+    padding-bottom: 5px;
+}
+
+.cardimg {
+    height: 50vh;
+    padding-top: 5vh;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 25vh;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+}
+.InvCards {
+    display: grid;
+    background-color: #ffca38;
+    border-color: orange;
+    border-radius: 5vh;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 3px;
+}
+.InvTitle {
+    color: orange;
+    font-family: "Quicksand", sans-serif;
+}
+.invBody {
+    background-color: #ffea96;
+}
+
+.cardimg:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.cardimg:active {
+    transform: scale(1.1);
+    opacity: 0.8;
+}

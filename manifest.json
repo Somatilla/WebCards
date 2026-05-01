@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "WebCards",
+  "version": "1.0",
+  "description": "Collect your own cards",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
